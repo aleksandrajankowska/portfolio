@@ -1,0 +1,93 @@
+#agata{
+    z-index: -100;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 1vw;
+}
+
+#puretek{
+    z-index: -100;
+    width: 20%;
+    margin: 0 auto;
+    padding-top: 1vw;
+}
+
+.cls-4{
+    stroke-dasharray: 600;
+    stroke-dashoffset: 600;
+    animation: animate 4s forwards; 
+}
+
+#lux{
+    z-index: -100;
+    width: 10%;
+    margin: 0 auto;
+    padding-top: 1vw;
+}
+
+#anja{
+    z-index: -100;
+    width: 13%;
+    margin: 0 auto;
+    padding-top: 1vw;
+}
+
+#headline{
+    font-weight: 200;
+    font-size: 2vw;
+}
+
+#doc{
+    width:60%;
+    margin: 0 auto;
+}
+
+#headline a{
+    font-size: 2vw;
+}
+
+#headline a:hover{
+    font-size: 2vw;
+    font-weight: 300;
+    color: #ffb137;
+}
+
+.mySlides {display:none;}
+
+.left{
+    float: left;
+    background: white;
+    border: none;
+    cursor: pointer;
+    font-size: 3vw;
+}
+
+.right{
+    float: right;
+    background: white;
+    border: none;
+    cursor: pointer;
+    font-size: 3vw;
+}
+
+.left:hover{
+    color: #ffb03f;
+    transition: ease-in 0.2s;
+}
+
+.right:hover{
+    color: #ffb03f;
+    transition: ease-in 0.2s;
+}
+
+footer{
+    height:3vw;
+}
+
+iframe{
+    margin-bottom:3vw;;
+}
+
+#doc img{
+    margin-top: 2vw;
+}

@@ -1,0 +1,57 @@
+#me img{
+    margin-left: 10vw;
+    display: inline;
+    width: 60%;
+}
+
+#aboutme{
+    display: inline;
+    text-align: center;
+    padding-bottom: 2000px;
+}
+
+#aboutme p, a{
+    font-size: 1.5vw;
+    margin-bottom: 2vw;
+    font-weight: 200;
+}
+
+#aboutme a:hover{
+    font-size: 1.5vw;
+    font-weight: 400;
+    color: #ffb03f;
+}
+
+.column1 {
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+#outline{
+    z-index: -100;
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 5vw;
+}
+
+.cls-3{
+    stroke-dasharray: 4900;
+    stroke-dashoffset: 4900;
+    animation: animate 7s forwards; 
+}
+
+#contact p{
+    width:100%;
+}
+
+#socials{
+    margin-left: 31vw;
+}
+
+#socials img{
+    width: 5vw;
+    display: inline;
+    margin-left: 2vw;
+    margin-left: 2vw;
+}
